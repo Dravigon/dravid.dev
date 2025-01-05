@@ -9,6 +9,10 @@ html,body{
     position: absolute;
     z-index: 9999;
 }
+.main-content>.container{
+    overflow: auto;
+    max-height: 80vh;
+}
 
 
 /*=================
