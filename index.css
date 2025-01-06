@@ -8,6 +8,7 @@ html,body{
 .main-content{
     position: absolute;
     z-index: 9999;
+    width: 100vw;
 }
 .main-content>.container{
     overflow: auto;
